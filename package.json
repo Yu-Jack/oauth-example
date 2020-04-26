@@ -1,0 +1,29 @@
+{
+  "name": "oauth-example",
+  "version": "1.0.0",
+  "description": "Central Authentication Service Example Node.js Version",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "multer": "^1.4.2",
+    "randomstring": "^1.1.5",
+    "vue": "^2.6.11",
+    "vue-router": "^3.1.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "vue-loader": "^15.9.1",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "scripts": {
+    "build": "webpack --mode=development",
+    "watch": "webpack --mode=development --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}

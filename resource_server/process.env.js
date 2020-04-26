@@ -1,0 +1,1 @@
+process.env.PHOTO_URL = "http://photo.example.net:3000"

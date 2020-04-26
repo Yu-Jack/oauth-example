@@ -1,0 +1,1 @@
+process.env.OUATH_URL = "http://photo.example.net:3000";

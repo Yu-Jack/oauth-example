@@ -1,0 +1,3 @@
+node_modules/
+client/vue/dist/
+resource_server/vue/dist/
